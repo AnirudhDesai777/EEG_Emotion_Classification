@@ -1,7 +1,7 @@
 # EEG_Emotion_Classification
 
 
-Please read report for explaination 
+  Please read majorproject_report_version4.1 for explaination
 
 The contributors are 
 Anirudh B M anirudhdesai777@gmail.com
